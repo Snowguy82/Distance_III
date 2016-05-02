@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/reset_menu_item"
+          android:title="@string/reset_title"/>
+    <item  android:id="@+id/priority"
+        android:title="@string/reading_priority_title">
+        <menu>
+            <item android:id="@+id/high_priority_menu_item"
+                  android:title="@string/high_priority_title"/>
+            <item android:id="@+id/balanced_priority_menu_item"
+                  android:title="@string/balanced_priority_title"/>
+            <item android:id="@+id/low_priority_menu_item"
+                  android:title="@string/low_priority_title"/>
+        </menu>
+    </item>
+</menu>

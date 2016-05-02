@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DistanceTracker</string>
+    <string name="distance_traveled">Distance Traveled</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="interval">Elapsed Time</string>
+    <string name="priority">Priority</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="fine_location_rationale">This app needs to be able to access your location so that it
+    can calculate the distance between locations.  FINE location access allows this app to use location information
+    provided by GPS and WiFi radios.  Without these permissions this app will not work.</string>
+    <string name="coarse_location_rationale">This app needs to be able to access your location so that it
+    can calculate the distance between locations.  COARSE location access allows this app to use location information
+    provided by Cellular radio towers.  Without these permissions this app will not work.</string>
+    <string name="default_message">Please grant location permissions for this app.</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false"> AIzaSyD3jpTMEHt5pHT1URDOJwWQ9Q_ZDihuUVU </string>
+    <string name="high_priority_title">High</string>
+    <string name="balanced_priority_title">Balanced</string>
+    <string name="low_priority_title">Low</string>
+    <string name="reset_title">Reset</string>
+    <string name="reading_priority_title">Priority</string>
+</resources>
